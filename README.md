@@ -77,6 +77,8 @@ c. ![Web capture_20-6-2023_105148_www youtube com](https://github.com/edyprogram
 
 - Using a soft margin
 
+  ```python model = svm.SVC(kernel="linear", C=1) ```
+
 ![Web capture_20-6-2023_112813_www youtube com](https://github.com/edyprogramz/Cancer-Dataset-Classification/assets/116636391/f2890d4e-f5b6-4185-813b-603ea42a56ca)
 
 - If this occurs like in our case where by a RED DATA POINT has strayed. We ignore it to get a better result.

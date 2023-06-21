@@ -63,7 +63,7 @@ c. ![Web capture_20-6-2023_105148_www youtube com](https://github.com/edyprogram
 
 - In this case we use **kernel trick**
 
-- Kernel, simply take the x1's and x2 of each data point and comes up with an x3. For 3D
+- Kernel, simply take the x<sup>1</sup> 's and x<sup>2</sup> of each data point and comes up with an x<sup>3</sup>. For 3D
 
 ![Web capture_20-6-2023_111853_www youtube com](https://github.com/edyprogramz/Cancer-Dataset-Classification/assets/116636391/dc0fd092-cc4e-449e-aad3-2050ccfab418)
 
